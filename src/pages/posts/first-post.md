@@ -1,9 +1,8 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: My first post
+subtitle: Let the journey begin
 date: '2021-03-31'
-thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Let the journey begin
 hide_header: false
 seo:
   title: ''
@@ -12,10 +11,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_img_path: /images/3.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+No content yet
