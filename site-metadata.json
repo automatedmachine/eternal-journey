@@ -77,5 +77,6 @@
         "type": "footer",
         "content": "- A simple blog by a simple person -"
     },
-    "domain": "https://eternal-journey-9a521.netlify.app"
+    "domain": "https://eternal-journey-9a521.netlify.app",
+    "favicon": "/images/android-chrome-512x512.png"
 }

@@ -11,6 +11,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_img_path: /images/3.jpg
+thumb_img_path: /images/freely-59286-crop.jpg
 ---
 No content yet
