@@ -12,6 +12,5 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: /images/freely-59286.jpg
-content_img_path: /images/freely-59286.jpg
 ---
 No content yet
