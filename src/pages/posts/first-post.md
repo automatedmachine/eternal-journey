@@ -2,7 +2,6 @@
 title: My first post
 subtitle: Let the journey begin
 date: '2021-03-31'
-thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 seo:
