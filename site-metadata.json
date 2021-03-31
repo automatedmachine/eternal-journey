@@ -70,7 +70,8 @@
                 "icon_class": "dev",
                 "new_window": true
             }
-        ]
+        ],
+        "logo_img_alt": "Logo"
     },
     "footer": {
         "type": "footer",
