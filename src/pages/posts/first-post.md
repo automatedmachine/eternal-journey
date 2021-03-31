@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My first post
 subtitle: lorem-ipsum
 date: '2021-03-31'
 thumb_img_alt: lorem-ipsum
