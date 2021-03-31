@@ -5,7 +5,7 @@
         "type": "header",
         "title": "Fjord",
         "tagline": "The journey to God is endless",
-        "logo_img": "/images/eternal-journey-text.svg",
+        "logo_img": "/images/eternal-journey.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
