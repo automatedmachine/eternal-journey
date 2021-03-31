@@ -1,6 +1,6 @@
 ---
 title: My first post
-subtitle: lorem-ipsum
+subtitle: Let the journey begin
 date: '2021-03-31'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
